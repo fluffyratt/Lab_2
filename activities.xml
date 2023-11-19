@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<student_activities>
+	<Gurtok>
+		<Title>Поліглот</Title>
+		<Faculty>Іноземних мов</Faculty>
+		<Department>Відділення англійської мови</Department>
+		<Schedule>
+			<Day>Понеділок</Day>
+			<Time>15:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Людмила</FirstName>
+			<LastName>Петрівна</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Діана</FirstName>
+			<LastName>Хмельова</LastName>
+		</Starosta>
+	</Gurtok>
+	<Gurtok>
+		<Title>Рукоділля</Title>
+		<Faculty>Трудового навчання</Faculty>
+		<Department>Відділеня трудового навчання</Department>
+		<Schedule>
+			<Day>Четвер</Day>
+			<Time>17:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Луі</FirstName>
+			<LastName>Мішлен</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Влад</FirstName>
+			<LastName>Остапенко</LastName>
+		</Starosta>
+	</Gurtok>
+	<Gurtok>
+		<Title>Математичні науки</Title>
+		<Faculty>Інформаційних технологій</Faculty>
+		<Department>Відділення програмування</Department>
+		<Schedule>
+			<Day>Вівторок</Day>
+			<Time>16:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Олексій</FirstName>
+			<LastName>Павленко</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Віктор</FirstName>
+			<LastName>Іванов</LastName>
+		</Starosta>
+	</Gurtok>
+	<Gurtok>
+		<Title>Гуманітарні науки</Title>
+		<Faculty>Гуманітарних наук</Faculty>
+		<Department>Відділення філософії</Department>
+		<Schedule>
+			<Day>Середа</Day>
+			<Time>17:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Петро</FirstName>
+			<LastName>Гончар</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Олена</FirstName>
+			<LastName>Ходакова</LastName>
+		</Starosta>
+	</Gurtok>
+</student_activities>
